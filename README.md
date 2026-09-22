@@ -46,7 +46,7 @@ each with:
   growth.
 - **Refractive index by method** (`02`): denser, more crystalline films
   (PLD, ALD) show higher refractive index (~2.0) than more porous sol-gel
-  films (~1.7–1.85) — the density argument your review likely makes
+  films (~1.7–1.85), the density argument the review likely makes
   qualitatively, shown here numerically.
 - **Bandgap vs. carrier concentration** (`03`): a clean Burstein-Moss trend
   — bandgap widens as carrier concentration increases, across all methods.
