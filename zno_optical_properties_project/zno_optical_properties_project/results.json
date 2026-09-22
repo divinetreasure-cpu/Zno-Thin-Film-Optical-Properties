@@ -1,0 +1,23 @@
+{
+  "bandgap_regression": {
+    "Linear Regression": {
+      "rmse_eV": 0.0256,
+      "mae_eV": 0.0204,
+      "r2": 0.1986
+    },
+    "Random Forest": {
+      "rmse_eV": 0.0263,
+      "mae_eV": 0.0209,
+      "r2": 0.1527
+    }
+  },
+  "method_classification": {
+    "accuracy": 0.9,
+    "per_class_f1": {
+      "ALD": 0.857,
+      "PLD": 0.765,
+      "RF Sputtering": 0.92,
+      "Sol-Gel": 1.0
+    }
+  }
+}
